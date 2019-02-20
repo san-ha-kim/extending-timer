@@ -6,4 +6,5 @@ Requires PyGame
 The interval variable determines the initial starting time (default 20 seconds) and how many seconds to add (default 20 seconds)
 
 Press space bar to add intervals (20s default)
+
 Press escape key to exit the whole thing
